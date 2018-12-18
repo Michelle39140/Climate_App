@@ -119,4 +119,4 @@ def date_range(start,end):
 
 # start server
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run

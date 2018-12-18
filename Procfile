@@ -1,1 +1,1 @@
-worker: python Climate_app.py
+web: gunicorn Climate_app:app
