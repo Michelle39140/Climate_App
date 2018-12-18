@@ -4,7 +4,7 @@
 1. Explore the climate database for Honolulu, Hawaii, run climate analyze and visulaze the results;
 2. Create a Flask API that returns weather data from the database up on user queries.
 
-**Data**: [Weather data in Sqlite file](Resources/hawaii.sqlite)
+**Data**: [hawaii.sqlite](Resources/hawaii.sqlite)
 
 **Lanugage**: Python
 
