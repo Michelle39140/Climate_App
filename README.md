@@ -12,10 +12,10 @@
 
 **Deployed on** Heroku
 
-**Notebook**: [Jupyter Notebook](Climate Analysis.ipynb)
+**Notebook**: [Jupyter Notebook](Climate_Analysis.ipynb)
 
-## Flask API is like here:
-## Climate analysis results:
+### Flask API is like here:
+### Climate analysis results:
 * Precipitation Analysis
 ![precipitation](Average_Daily_Precipitation.png)
 
