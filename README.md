@@ -14,7 +14,8 @@
 
 **Notebook**: [Jupyter Notebook](Climate_Analysis.ipynb)
 
-### Flask API is like here:
+### Flask API is live here: https://climate-app-hawaii.herokuapp.com/
+
 ### Climate analysis results:
 * Precipitation Analysis
 ![precipitation](Average_Daily_Precipitation.png)
